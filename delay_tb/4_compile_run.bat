@@ -1,0 +1,1 @@
+1_compile.bat & 2_run_no_gui.bat

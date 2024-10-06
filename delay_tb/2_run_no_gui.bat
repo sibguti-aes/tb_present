@@ -1,0 +1,1 @@
+vsim -c work.delay_tb -do "run -all; quit"
